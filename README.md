@@ -1,5 +1,6 @@
 # Task_Manager
 The purpose of writing this program is to divide and manage the work of an organization among the employees of this organization.
+
 • Attributes:
 • The program is always ready to take orders from the user.
 Today command: Displays today's tasks.
